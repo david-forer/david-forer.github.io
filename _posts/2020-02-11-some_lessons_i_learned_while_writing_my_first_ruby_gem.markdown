@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "'Some lessons I learned while writing my First Ruby Gem'"
-date:       2020-02-11 23:15:59 +0000
+date:       2020-02-11 18:16:00 -0500
 permalink:  some_lessons_i_learned_while_writing_my_first_ruby_gem
 ---
 
