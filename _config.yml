@@ -1,11 +1,11 @@
 # Site settings
-author: David Forer
-title: 
+author: David J Forer
+title: Web Development Overload
 header-img: img/home-bg.png
 email: david.j.forer@gmail.com
-copyright_name: David Forer
+copyright_name: David J Forer
 description: > # this means to ignore newlines until "baseurl:"
-  
+  The Opportunity Within to Overcome and Achieve with Code
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  david-forer
